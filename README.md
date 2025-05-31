@@ -10,7 +10,6 @@ I'm a passionate and curious Computer Science Engineering student who loves to b
 - 👀 Interested in **Problem Solving**, **Web Development**, and **AI**
 - 🌱 Currently diving into **DevOps**, learning tools like Docker, CI/CD, and Kubernetes
 - 🤝 Looking to collaborate on open source projects and hackathons
-- 🧠 Exploring the intersection of technology with **sustainability**, **healthcare**, and **smart cities**
   
 ---
 
