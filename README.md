@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Shivani Yadav! 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/ShivaniYadav7/ShivaniYadav7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
 ---
 
 ### 👩‍💻 About Me
