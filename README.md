@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shivani Yadav! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=440&lines=💻+Passionate+about+Web+Dev+%26+AI;🚀+Always+Building+%26+Breaking;🎯+Problem+Solver+%7C+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://github.com/ShivaniYadav7/ShivaniYadav7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
@@ -51,7 +51,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaniYadav7&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaniYadav7&theme=radical" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaniYadav7&theme=radical" alt=""/>
 </p>
 
 ---
