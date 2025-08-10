@@ -5,10 +5,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.E. in **Computer Engineering**
-- 🌱 Currently exploring **DevOps**: Docker, CI/CD, Kubernetes
-- 💡 Interested in **Problem Solving**, **Web Development**, **AI/ML**, and **GenAI**
+- 🌱 Currently exploring **DevOps**: Docker, CI/CD
+- 💡 Interested in **Problem Solving**, **Web Development**
 - 🤝 Open to collaboration on **Open Source Projects** & **Hackathons**
-- 🎥 Working on **Image & Video Processing** based mini-projects
 - 🎯 Aim: Build impactful, scalable, and user-centric solutions
 
 ---
@@ -35,7 +34,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 #### 🔬 Other Interests  
-`GenAI`, `Machine Learning`, `Image & Video Processing`, `Servlets`, `APIs`
+`GenAI`, `Machine Learning`, `Image & Video Processing`, `APIs`
 
 ---
 
